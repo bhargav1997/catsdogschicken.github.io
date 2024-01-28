@@ -1,5 +1,7 @@
 # Cats Dogs and Chicken
 
+![Poster](CatsDogsChicken.png)
+
 ## Game Jam - 2024 ✌🏻 @Humber College
 
 ## Group Members: 
