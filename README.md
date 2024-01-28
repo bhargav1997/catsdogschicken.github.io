@@ -17,7 +17,7 @@ We are a vibrant group of first-year web development students, brimming with cre
 
 ---
 
-Site : [Click Me](https://bhargav1997.github.io/catsdogschicken.github.io/)
+Game Link : [Click Me](https://bhargav1997.github.io/catsdogschicken.github.io/)
 
 
 
